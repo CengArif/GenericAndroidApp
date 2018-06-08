@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/40.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78c35d81d68f24a19fa7b53b2e8f291135947756">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/17.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/26.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f8cd7260eeb69e9e0dd4ad1b44b8a09aeaf68fd">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/6.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c13600da3f3e02f79c744e934ddd07dee10a022">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/30.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8cd8c43301a956f577b244668c4ad46ebc584303">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/32.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a9cfa342a3378c6390ca0e2aa9a1624fcf1682c">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/33.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="082809ce939a2a1c22a2f17f24cb81948ab9897c">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/22.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8894eaf3ad90c58cc8a1b32f447656194d559453">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0135b68272b9bf29bc639a8e792e2773e4a7ba2">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/24.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="646a3ccb19c4c4a65234e723024eb156d8c95cc3">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/14.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7eba09dd4cb10c4de3b45c74b2be29794de9b562">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/29.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37e0c68c5af378e188e6caf804284c393a2ddcd5">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/27.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f0c8967bf3d38f382e60e5d462f5310fb5d618c">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/28.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bdf5e1416816e96f0860570dafba319dfea9177">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/25.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="581f740328e8f80438d9af31a2abee6e64437508">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/10.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d23c824b1d8b29b7f279108cfd880684ab07db66">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/20.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4aca07c749afa56a68ccf05e83570f464bbc10b4">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/4.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e72d796d45af03c586f15c37c4898f0174356318">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/15.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a87983d50d4512ffdf71f19f622b41be87a60042">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/23.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b27a7a34791cd90b536255baf816ab3559823ba7">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/21.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1253897d3456f7fda5fe06800dd9331af8e6792">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/31.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d703cfa51be66c08adfaf4b9af578a504c34111">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/7.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ce62ed1be69139931fa2bf3f934f230677ded39">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/5.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f612e880853ab56de6428effed8386cd19f2031e">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/18.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f1eb52ab39a98c946ac6939b258f07962a4ce1b3">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6b30217aa10d02710a0e58999ff4c03250b8662">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/11.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc9baeb1317f075482950335c5bef5365232d6f1">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/8.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88d55b983c93ff6e8b565178a13fa70af30745c1">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/13.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1738cc1544c0e9345b34422735afbf96b4bf43cb">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/19.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd1ac7bb8c5b8308671b34328fe141e7b3973d8d">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/36.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a63d84931b1e8f959a6be615fc049519ea9d58d">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/12.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02ab3c842f30f7e0907ed422a1279d4426ec4203">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/9.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c46023b06a51e2b588a0d10d6cf6beb48d138176">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac7ece6720df427415ead75897c0c879fdaec55c">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/35.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04b54c1584ce3991189f18060ea3c8b7ce4c8cec">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/desugar/release/16.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e1dbf79da89e7e4f849c9edefc6751389e7a9ac">
+        <dex dex="/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+
+</items>

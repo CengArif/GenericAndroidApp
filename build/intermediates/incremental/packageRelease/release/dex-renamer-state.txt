@@ -1,0 +1,4 @@
+#Wed Jun 06 21:26:12 UTC 2018
+base.0=/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/tmp/tmpcj5g82sn/GenericAndroidApp/build/intermediates/transforms/dex/release/0/classes.dex

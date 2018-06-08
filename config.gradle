@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'com.kbi.obb2:corelib:0.0.58'
+}
